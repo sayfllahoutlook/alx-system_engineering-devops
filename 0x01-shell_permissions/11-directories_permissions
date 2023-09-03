@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x "$dir"
+for d in */ ; do chmod a+x $d
