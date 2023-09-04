@@ -1,2 +1,2 @@
 #!/bin/bash
-for d in */ ; do chmod a+x $d
+chmod I ugo + X
